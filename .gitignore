@@ -1,0 +1,8 @@
+*.o
+*~
+*.bak
+*.tmp
+*.orig
+*.rej
+dwm
+config.def.h
